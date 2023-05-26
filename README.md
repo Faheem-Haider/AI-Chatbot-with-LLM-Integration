@@ -17,7 +17,7 @@
 <p>Follow these steps and deploy your own ChatGPT Telegram Bot today!</p>
 
 <div align="center">
-  <a href="https://www.instagram.com/harshitethic/">
+  <a href="https://www.instagram.com/_de_rossi__/">
     <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
