@@ -17,6 +17,6 @@
 <p>Follow these steps and deploy your own ChatGPT Telegram Bot today!</p>
 
 <div align="center">
-  <a href="https://www.instagram.com/_de_rossi__/">
+  <a href="https://www.instagram.com/_de_rossi__/"
   </a>
 </div>
