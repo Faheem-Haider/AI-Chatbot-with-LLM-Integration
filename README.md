@@ -13,7 +13,7 @@
 <h3>Step 6: Configure and Turn On the Dyno</h3>
 <p>Navigate to the Overview tab in Heroku and configure and turn on the dyno.</p>
 <h3>Step 7: Start Chatting!</h3>
-<p>Your Bot is now ready! Start the conversational AI experience.</p>
+<p>Your Bot is now ready! Agift from my side ^^ Start the conversational AI experience.</p>
 
 <div align="center">
   <a href="https://www.instagram.com/_de_rossi__/"
